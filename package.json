@@ -2,22 +2,22 @@
   "name": "webpoject",
   "version": "1.0.0",
   "description": "",
-  "main": "booking.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/LALITH-MVS/webProject#readme",
+  "bugs": {
+    "url": "https://github.com/LALITH-MVS/webProject/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LALITH-MVS/webProject.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/LALITH-MVS/webProject/issues"
+  "main": "booking.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/LALITH-MVS/webProject#readme",
   "dependencies": {
     "body-parser": "^2.2.0"
   },
